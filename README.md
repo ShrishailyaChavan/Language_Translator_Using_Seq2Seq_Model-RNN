@@ -3,11 +3,17 @@
 
 # About 
 
-Language Translator using Seq2Seq Model(RNN) Python, Keras Sept 2022
+Language Translator using Seq2Seq Model(RNN)
+
+Used : Python, Keras
+
 Design Implementation and Prototyping
-Build and devise a high performing machine translation sequence to sequence model(RNN) that will accept English text as input and return the French
-translation
+
+Build and devise a high performing machine translation sequence to sequence model(RNN) that will accept English text as input and return the French translation
+
 • Supervised model development, processing of text data to feed it to the network pipelines, testing and validation of translated output text streams.
+
+
 • Developed a Recurrent Neural Network and fully-connected layer to accept and process the sequence of words respectively.
 
 # Prerequiste :
